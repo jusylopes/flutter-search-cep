@@ -1,16 +1,22 @@
-# search_cep
+# 📫 Search Cep
 
-A new Flutter project.
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/jusylopes/flutter-search-cep/blob/main/LICENSE) 
 
-## Getting Started
+## Sobre o projeto
 
-This project is a starting point for a Flutter application.
+Consulta por CEP em Flutter com provider e consumo da API VIA CEP.
 
-A few resources to get you started if this is your first Flutter project:
+## Layout mobile
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Tecnologias utilizadas
+
+* Flutter
+* Provider
+* Consumo de API
+
+
+### Desenvolvedora
+
+Jusy Lopes
+https://www.linkedin.com/in/jusylopes
